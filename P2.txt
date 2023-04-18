@@ -1,0 +1,17 @@
+PrLec D
+PrEsc D P2-45
+PrEsc C P2-34
+PrLec D
+PrLec A
+PrEsc D P2-57
+PrLec A
+PrLec D
+PrEsc C P2-23
+PrEsc D P2-39
+PrLec A
+PrLec D
+PrEsc C P2-4
+PrEsc D P2-14
+PrEsc C P2-6
+PrEsc C P2-88
+Fin A

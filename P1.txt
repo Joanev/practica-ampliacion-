@@ -1,0 +1,13 @@
+PrLec A
+PrLec B
+PrEsc B P1-7
+PrLec A
+PrLec C
+PrLec C
+PrEsc B P1-3
+PrLec A
+PrEsc B P1-12
+PrLec A
+PrEsc B P1-6
+PrLec C
+Fin A

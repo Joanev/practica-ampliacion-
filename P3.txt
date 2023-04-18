@@ -1,0 +1,14 @@
+PrLec A
+PrLec B
+PrEsc B P3-1
+PrLec D
+PrEsc B P3-4
+PrEsc D P3-15
+PrLec D
+PrEsc B P3-9
+PrLec A
+PrEsc D P3-11
+PrLec D
+PrEsc B P3-5
+PrEsc D P3-7
+Fin 4
